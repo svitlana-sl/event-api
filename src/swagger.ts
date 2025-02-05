@@ -18,7 +18,7 @@ const options = {
             description: "Development server",
           }
         : {
-            url: "https://events-api.onrender.com/api",
+            url: "https://event-api-u0p4.onrender.com/api",
             description: "Production server",
           },
     ],
